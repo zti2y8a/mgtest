@@ -1,0 +1,22 @@
+{
+  "app": {
+    "version": "282",
+    "versionCode": "282",
+    "link": "https://github.com/zti2y8a/mgtest/new/master/MagiskManager-Canary-2020-03-31-5537b083-20401-282-app-debug.apk",
+    "note": ""
+  },
+  "magisk": {
+    "version": "20401",
+    "versionCode": "20401",
+    "link": "https://github.com/zti2y8a/mgtest/new/master/magisk-v20.x-debug-2020-03-28-ef9d077c-20401.zip",
+    "note": "https://forum.xda-developers.com/showthread.php?t=3521901",
+    "md5": ""
+  },
+  "uninstaller": {
+    "link": "https://github.com/zti2y8a/mgtest/new/master/Magisk-uninstaller.zip"
+  },
+  "snet": {
+    "versionCode": "13",
+    "link": "https://github.com/zti2y8a/mgtest/new/master/snet.apk"
+  }
+}
