@@ -5,7 +5,7 @@
     "link": "https://github.com/zti2y8a/mgtest/raw/master/v01/MaiskManager-Canary-2020-04-19-765d5d97-20402-283-app-debug.apk",
     "note": ""
   },
-  "magisk": {
+  "magisk":  {
     "version": "20409",
     "versionCode": "20409",
     "link": "https://github.com/zti2y8a/mgtest/raw/master/v01/Magisk-Canary-debug-2020-05-08-a62bdc58-20409.zip",
