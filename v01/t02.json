@@ -1,13 +1,13 @@
 {
   "app": {
-    "version": "282",
-    "versionCode": "282",
+    "version": "283",
+    "versionCode": "283",
     "link": "https://github.com/zti2y8a/mgtest/raw/master/v01/MaiskManager-Canary-2020-04-19-765d5d97-20402-283-app-debug.apk",
     "note": ""
   },
   "magisk": {
-    "version": "20401",
-    "versionCode": "20401",
+    "version": "20409",
+    "versionCode": "20409",
     "link": "https://github.com/zti2y8a/mgtest/raw/master/v01/Magisk-Canary-debug-2020-05-08-a62bdc58-20409.zip",
     "note": "https://forum.xda-developers.com/showthread.php?t=3521901",
     "md5": ""
